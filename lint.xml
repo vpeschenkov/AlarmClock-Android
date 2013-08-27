@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="Wakelock" severity="ignore">
+        <ignore path="src\com\inostudio\alarm_clock\AlarmManagerBroadcastReceiver.java" />
+        <ignore path="src\com\inostudio\alarm_clock\AlarmManagerBroadcastReceiver.java" />
+    </issue>
+</lint>

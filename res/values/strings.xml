@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">alarm_clock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_night">NightActivity</string>
+    <string name="wake_up">Wake up</string>
+    <string name="left_to_sleep">Left to sleep:</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="to_sleep">Sleep up to:</string>
+    <string name="alarm_rings_in">Alarm rings in </string>
+    <string name="alarm_clock">Alarm clock</string>
+    <string name="solve">Solve:</string>
+    <string name="off_alarm_clock">Off</string>
+    <string name="alarm_on">Alarm on!</string>
+    <string name="error_alarm_repeat">Error. Alarm repeate!</string>
+	<string name="input_error">Input Error!</string>
+	<string name="alarm_is_set">Alarm is set!</string>
+	<string name="alarm_off">Alarm off!</string>
+</resources>

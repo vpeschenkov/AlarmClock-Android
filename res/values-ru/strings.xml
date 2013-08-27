@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Будильник</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Найстройки</string>
+    <string name="title_activity_night">Ночной режим</string>
+    <string name="wake_up">Встать в</string>
+    <string name="left_to_sleep">Осталось спать:</string>
+    <string name="title_activity_alarm">Будильник</string>
+    <string name="to_sleep">Осталось спать:</string>
+    <string name="alarm_rings_in">Будильник зазвонит в</string>
+    <string name="alarm_clock">Будильник:</string>
+    <string name="solve">Решите:</string>
+    <string name="off_alarm_clock">Выключить</string>
+    <string name="alarm_on">Будильник включен!</string>
+    <string name="error_alarm_repeat">Ошибка. Будильник повторится!</string>
+	<string name="input_error">Ошибка ввода!</string>
+</resources>
